@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PingYanPhD
+- 👋 Hi, I’m @Ping
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning GCP and ML.
 - 💞️ I’m looking to collaborate on ...
